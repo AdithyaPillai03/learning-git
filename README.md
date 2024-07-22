@@ -1,2 +1,6 @@
 # learning-git
-sample repo for testing out merge conflicts and other git commands
+I am vinay kadam 
+
+I am learning merge conflict
+
+
